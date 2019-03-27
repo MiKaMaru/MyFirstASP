@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstASP", "MyFirstASP\MyFirstASP.csproj", "{A19766ED-A6E7-4503-A29F-A15DEBE2FDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstObserver", "MyFirstObserver\MyFirstObserver.csproj", "{3E8D9515-29D6-44FA-BE7A-51630F75AD3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19766ED-A6E7-4503-A29F-A15DEBE2FDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19766ED-A6E7-4503-A29F-A15DEBE2FDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19766ED-A6E7-4503-A29F-A15DEBE2FDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19766ED-A6E7-4503-A29F-A15DEBE2FDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8D9515-29D6-44FA-BE7A-51630F75AD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8D9515-29D6-44FA-BE7A-51630F75AD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8D9515-29D6-44FA-BE7A-51630F75AD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8D9515-29D6-44FA-BE7A-51630F75AD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D8CAB2E-8DD0-486D-8A61-3BB8860EA09F}
+	EndGlobalSection
+EndGlobal
